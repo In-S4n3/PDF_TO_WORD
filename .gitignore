@@ -1,0 +1,15 @@
+# Ignore compiled files
+*.log
+*.tmp
+
+# Ignore node_modules folder
+/*node_modules/
+
+# Ignore build output folder
+build/
+dist/
+
+# Ignore secrets file
+secrets.txt
+.env
+/*StructureOutput/
